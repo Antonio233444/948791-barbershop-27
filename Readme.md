@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Антон Харламов](https://up.htmlacademy.ru/htmlcss/27/user/948791).
+* Наставник:[Наталья Быстрова](https://htmlacademy.ru/profile/id124725).
 
 ---
 
